@@ -29,7 +29,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvid
 
 Acesse a versão publicada via GitHub Pages:
 
-> [https://seu-usuario.github.io/meu-portfolio/](https://k4ioedu.github.io/Portifolio/)
+> [https://k4ioedu.github.io/Portifolio/](https://k4ioedu.github.io/Portifolio/)
 
 ## ✨ Funcionalidades
 - Layout responsivo
