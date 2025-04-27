@@ -69,7 +69,7 @@ Acesse a versão publicada via GitHub Pages:
 
 ## 📋 Autor
 
-**Seu Nome** – [GitHub](https://github.com/K4ioedu) | [LinkedIn](https://www.linkedin.com/in/kaio-fontenele-11883a343/)
+**Kaio Fontenele** – [GitHub](https://github.com/K4ioedu) | [LinkedIn](https://www.linkedin.com/in/kaio-fontenele-11883a343/)
 
 ## 📝 Licença
 
