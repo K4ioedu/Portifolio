@@ -390,14 +390,12 @@ h1{
         font-size: 1.5rem;
     }
 
-    .sobre-titulo,.hobbies-titulo,.projetos-titulo{
+    .sobre-titulo,.projetos-titulo{
         margin-bottom: 5px;
         font-size: 1.5rem;
     }
 
-    .hobbies{
-        padding: 2rem 2rem;
-    }
+    
     
     .cabecalho-subtitulo{
         font-size: 1.5rem;
@@ -405,9 +403,7 @@ h1{
     .sobre-caixa{
         padding: 1rem;
     }
-    .hobbies-caixa{
-        padding: 0.5rem;
-    }
+    
     .projetos-caixa{
         padding: 1rem;
     }
@@ -426,11 +422,11 @@ h1{
     
     }
 
-    .hobbies-item i,.contatos-link {
+    .contatos-link {
         font-size: 2rem;
         
     }
-    .hobbies-paragrafo,.sobre-paragrafo{
+    .sobre-paragrafo{
         font-size: 1rem;
     
     }
